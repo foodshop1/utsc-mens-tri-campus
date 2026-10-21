@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "better-ui": {
+      "source": "Harmitx7/tribunal-kit",
+      "sourceType": "github",
+      "skillPath": ".agent/skills/better-ui/SKILL.md",
+      "computedHash": "2ff705fdee9dd2cbdc641e9125fc53f10e8f481d4b9222a44e543fbece61b0e8"
+    },
+    "writing-skills": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/writing-skills/SKILL.md",
+      "computedHash": "f06bbb471439736c838e89a57a2a371bcc687931ba878901d97373194e212ea9"
+    }
+  }
+}
